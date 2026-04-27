@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ahmad Saeed Zaidi 👋
 
-<!--
-**AhmadSaeedZaidi/AhmadSaeedZaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Artificial Intelligence undergraduate (6th semester) at the Ghulam Ishaq Khan Institute of Engineering and Technology (GIKI), maintaining a 3.8 CGPA. 
 
-Here are some ideas to get you started:
+I specialize in data pipelines, low-level systems, and machine learning. **I am currently seeking internships or full-time roles** where I can build high-performance systems or robust data infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data Hoarding
+My absolute favorite thing to do is scrape data. If it exists, I want it. I enjoy building automated MLOps pipelines to extract, transform, and archive massive datasets. My recent targets include:
+- Deeply annotated CUDA kernels from top GitHub repositories.
+- Multimodal video datasets and analytics/statistics from YouTube.
+- Granular, historical weather data.
+
+### Systems, CUDA, & Open Source
+I spend a significant amount of my time reading AI research papers and studying CUDA memory hierarchies and kernel optimizations. 
+* **Currently Reading:** The source code of `vLLM`, `llm.c`, and `TensorRT-LLM`.
+* **Open Source Goals:** I aspire to make meaningful contributions to the open-source community, specifically targeting VLC and various high-performance CUDA libraries.
+* **Core Stack:** C++, Python, CUDA, MLOps.
+
+### Beyond the Screen
+When I'm not working, I am usually:
+- Speed cubing
+- Solving math problems 
+- Folding origami
+- Playing Tabletop RPGs (and running Spright/Live Twin/Melffy engines in Yu-Gi-Oh!)
+- Reading manga
+- Cooking or working out (mental and physical well-being is important!)
+
+### Feel free to reach out
+The fastest way to reach me is on Discord: **`diablo.sama`**
