@@ -12,7 +12,7 @@ My absolute favorite thing to do is scrape data. If it exists, I want it. I enjo
 
 ### Systems, CUDA, & Open Source
 I spend a significant amount of my time reading AI research papers and studying CUDA memory hierarchies and kernel optimizations. 
-* **Currently Reading:** The source code of `vLLM`, `llm.c`, and `TensorRT-LLM`.
+* **Currently Reading:** The source code of `vLLM`, `llm.c`, `flashinfer` and `TensorRT-LLM`, as well as the Deepseek-v4 research paper.
 * **Open Source Goals:** I aspire to make meaningful contributions to the open-source community, specifically targeting VLC and various high-performance CUDA libraries.
 * **Core Stack:** C++, Python, CUDA, MLOps.
 
@@ -21,7 +21,7 @@ When I'm not working, I am usually:
 - Speed cubing
 - Solving math problems 
 - Folding origami
-- Playing Tabletop RPGs (and running Spright/Live Twin/Melffy engines in Yu-Gi-Oh!)
+- Playing Tabletop RPGs (and running Spright/Kewl-Tune in Yu-Gi-Oh!)
 - Reading manga
 - Cooking or working out (mental and physical well-being is important!)
 
