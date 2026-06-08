@@ -1,6 +1,6 @@
 # Hi, I'm Ahmad Saeed Zaidi 👋
 
-I am an Artificial Intelligence undergraduate (6th semester) at the Ghulam Ishaq Khan Institute of Engineering and Technology (GIKI), maintaining a 3.8 CGPA. 
+I am an Artificial Intelligence undergraduate (6th semester) at the Ghulam Ishaq Khan Institute of Engineering and Technology (GIKI).
 
 I specialize in data pipelines, low-level systems, and machine learning. **I am currently seeking internships or full-time roles** where I can build high-performance systems or robust data infrastructure.
 
