@@ -2,6 +2,8 @@
 
 I am an Artificial Intelligence undergraduate (6th semester) at the Ghulam Ishaq Khan Institute of Engineering and Technology (GIKI).
 
+### [I have a blog now!](ahmadsaeedzaidi.github.io)
+
 I specialize in data pipelines, low-level systems, and machine learning. **I am currently seeking internships or full-time roles** where I can build high-performance systems or robust data infrastructure.
 
 ### Data Hoarding
@@ -15,6 +17,7 @@ I spend a significant amount of my time reading AI research papers and studying 
 * **Currently Reading:** The source code of `vLLM`, `llm.c`, `flashinfer` and `TensorRT-LLM`, as well as the Deepseek-v4 research paper.
 * **Open PR:** [PR 3460](https://github.com/flashinfer-ai/flashinfer/pull/3460) on flashinfer, improving mhc_post kernel performance for sm90 architecture, profiled using cuobjdump file on modal h100.
 * **Open Source Goals:** I aspire to make meaningful contributions to the open-source community, specifically targeting VLC and various high-performance CUDA libraries.
+* **MLIR:** Thanks to the tutorial by lxsameer, I am learning MLIR and LLVM at the moment. repo and notes coming soon.
 * **Core Stack:** C++, Python, CUDA, MLOps.
 
 ### Beyond the Screen
