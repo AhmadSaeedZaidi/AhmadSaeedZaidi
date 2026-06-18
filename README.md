@@ -2,7 +2,7 @@
 
 I am an Artificial Intelligence undergraduate (6th semester) at the Ghulam Ishaq Khan Institute of Engineering and Technology (GIKI).
 
-### [I have a blog now!](ahmadsaeedzaidi.github.io)
+### [I have a blog now!](https://ahmadsaeedzaidi.github.io/)
 
 I specialize in data pipelines, low-level systems, and machine learning. **I am currently seeking internships or full-time roles** where I can build high-performance systems or robust data infrastructure.
 
