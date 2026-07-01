@@ -4,7 +4,7 @@ I am an Artificial Intelligence undergraduate (6th semester) at the Ghulam Ishaq
 
 ### [I have a blog now!](https://ahmadsaeedzaidi.github.io/)
 
-I specialize in data pipelines, low-level systems, and machine learning. **I am currently seeking internships or full-time roles** where I can build high-performance systems or robust data infrastructure.
+I specialize in data pipelines, low-level systems, and machine learning. **I am currently seeking internships or researc roles** where I can assist in GPU Programming, or LLM research!
 
 ### Data Hoarding
 My absolute favorite thing to do is scrape data. If it exists, I want it. I enjoy building automated MLOps pipelines to extract, transform, and archive massive datasets. My recent targets include:
