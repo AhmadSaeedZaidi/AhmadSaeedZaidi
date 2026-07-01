@@ -7,7 +7,7 @@ I am an Artificial Intelligence undergraduate (6th semester) at the Ghulam Ishaq
 I specialize in data pipelines, low-level systems, and machine learning. **I am currently seeking internships or researc roles** where I can assist in GPU Programming, or LLM research!
 
 ### Data Hoarding
-My absolute favorite thing to do is scrape data. If it exists, I want it. I enjoy building automated MLOps pipelines to extract, transform, and archive massive datasets. My recent targets include:
+My absolute favorite thing to do is scrape data. If it exists, I want it. I enjoy building automated pipelines to extract, transform, and archive datasets. My recent targets include:
 - Deeply annotated CUDA kernels from top GitHub repositories.
 - Multimodal video datasets and analytics/statistics from YouTube.
 - Granular, historical weather data.
@@ -30,4 +30,5 @@ When I'm not working, I am usually:
 - Cooking or working out (mental and physical well-being is important!)
 
 ### Feel free to reach out
-The fastest way to reach me is on Discord: **`diablo.sama`**
+The fastest way to reach me is on Discord: **`diablo.sama`**, sorry it's not a very professional handle.
+You can always use my email ahmadsaeedzaidi@gmail.com or my linkdin [linkedin.com/in/ahmadsaeedzaidi/](https://www.linkedin.com/in/ahmadsaeedzaidi/)
